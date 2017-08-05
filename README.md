@@ -6,3 +6,4 @@ These are various coding projects I did in C++ for Intro to Operating Systems cl
 - Scheduling algorithms used by Operating Systems
 - Banker's algorithm and its application
 - File operations using C++
+- Bash scripting
